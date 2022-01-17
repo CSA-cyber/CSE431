@@ -39,6 +39,9 @@ https://docs.docker.com/
 https://www.nltk.org/book/
 https://www.overleaf.com/learn
 
+Did complete coding for our group paper. Notebook link:
+https://www.kaggle.com/csacyber/banglalyricsclassifier
+
 
 was active in slack:
 https://bucse712fall2021.slack.com/archives/C02GE7F3YSZ/p1641626177007800
